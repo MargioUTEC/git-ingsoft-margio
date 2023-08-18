@@ -4,7 +4,7 @@
 - Milloshy Crisostomo Rodriguez
 - Paola Maguiña Aranda
 ## Texto de los comandos de commit / rebase / merge de los terminales de ambos participantes
-![comandos commit]()
+![comandos commit](comandos-commit.png)
 
 
 
